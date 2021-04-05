@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Serverless, Infra as Code, Azure
-- 📫 How to reach me: [@beetuco](https://twitter.com/byrontuckett)
+- 📫 How to reach me: [@byrontuckett](https://twitter.com/byrontuckett)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
 
