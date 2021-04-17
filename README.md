@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Laravel deployments into AKS, Serverless Apps with NuxtJS, Node and Az Functions
-- 🌱 I’m currently learning Kubernetes
+- 🔭 I’m currently working on Laravel deployments into AKE and GKE, Serverless Apps with NuxtJS, Node and Az Functions
+- 🌱 I’m currently learning NuxtJS
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Serverless, Infra as Code, Azure
