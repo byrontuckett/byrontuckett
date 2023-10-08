@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Laravel deployments into AKE and GKE, Serverless Apps with NuxtJS, Node and Az Functions
-- 🌱 I’m currently learning NuxtJS
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🔭 I’m a Senior DevOps Engineer working with Enterprise clients to build and expand their DevOps practices
+- 🌱 I’m learning more about dbt (Data Build Tool) and diving ito data engineering concepts.
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Serverless, Infra as Code, Azure
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 💬 Ask me about Terraform, Infra as Code, Azure, AWS, DevOps practices
 - 📫 How to reach me: [@byrontuckett](https://twitter.com/byrontuckett)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
